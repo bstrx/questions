@@ -50,3 +50,4 @@ $a = -20;
 $b = -6;
 $c = $a % $b // $c ?
 
+echo ((true ? 'true' : false) ? 't' : 'f');
